@@ -1,5 +1,7 @@
 # Linux_Filters
 
+# telegram - @NoHatPerry
+
 ### more
 
 more - это программа для постраничного просмотра длинных текстов в терминале.
